@@ -1,4 +1,3 @@
-# R_projects
-Projects centered in using R.  
+# 🚧 Work in progress...
 
-## 🚧 Work in progress...
+Soon, you will be able to find R related projects here.
